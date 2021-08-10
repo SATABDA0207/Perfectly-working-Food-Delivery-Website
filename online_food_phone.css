@@ -1,0 +1,95 @@
+#navbar ul{
+    position: relative;
+    /* margin-left: 5% */
+    left: 1%;
+}
+#navbar{
+    /* width: 100%; */
+    display: flex;
+    flex-flow: row wrap;
+    /* font-size: 20%; */
+}
+#navbar ul li{
+    font-size: 83%;
+}
+/* #forimage::before{
+    width: 100%;
+} */
+/* #home{
+    font-size: 1rem;
+} */
+/* .homeelmnt{
+    font-size: 10px;
+} */
+#heading{
+    font-size: 3vh;
+}
+#para1{
+    font-size: 2vh;
+}
+#para2{
+    font-size: 1vh;
+}
+#service{
+    margin-top: 13vh;
+}
+#service h3{
+    font-size: 2rem;
+}
+#discount img{
+    width: 15vw;
+    height: 15vw;
+}
+#facility ul{
+    height: 340vw;
+    /* border: 2px solid green; */
+    justify-content: center;
+}
+#facility ul li img{
+    height: 20vh;
+    width: 25vh;
+    margin-left: 23%;
+}
+#facility ul li{
+    border-radius: 2vh;
+    /* margin: 3vh; */
+    height: 48vh;
+    width: 50vh;
+    padding: 1%;
+}
+#facility ul li p{
+    font-size: 1rem;
+}
+#facility ul li h3{
+    font-size: 2rem;
+    padding: 5%;
+}
+#about_us{
+    height: 40vh;
+}
+#about_us ul{
+    margin-top: 2%;
+    height: 5vh;
+    /* padding-right: 7px; */
+}
+#about_us h1{
+    font-size: 5vh;
+    margin-left: 30px;
+    margin-top: 65px;
+}
+#about_us ul li{
+    font-size: 2vh;
+    margin: 1%;
+}
+#contact_us{
+    height: 70vh;
+}
+#contact_us h1{
+    font-size: 2rem;
+}
+.input{
+    font-size: 1rem;
+}
+#copyright{
+    height: 70vh;
+}
